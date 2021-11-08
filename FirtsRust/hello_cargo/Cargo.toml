@@ -1,0 +1,14 @@
+#Cargo es un sistema de construccion 
+#y administracion de paquetes de Rust
+#Se utiliza para que Cargo maneje varias tareas
+#de los proyectos creados
+#Como construcir el codigo, dependencias y bibliotecas
+#Indica que se esta configurando un paquete
+[package]
+name = "hello_cargo"
+version = "0.1.0"
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
